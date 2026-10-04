@@ -1,0 +1,17 @@
+export const Colors = {
+  navy: '#000b18',
+  navyDeep: '#001529',
+  navyMid: '#0a2744',
+  cream: '#f3ead8',
+  creamMuted: '#c9bda8',
+  gold: '#d4a017',
+  goldSoft: '#e8c56a',
+  parchment: '#f4e8d0',
+  parchmentInk: '#2c2416',
+  parchmentMuted: '#5c4f3a',
+  white: '#ffffff',
+  ocean: '#0e4d6e',
+  wave: '#1a6b8a',
+  border: 'rgba(243, 234, 216, 0.18)',
+  overlay: 'rgba(0, 11, 24, 0.72)',
+} as const
